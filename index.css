@@ -33,3 +33,19 @@
   display: flex;
   flex-wrap: wrap;
 }
+
+.shimmer-card {
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+  background-color: lightgray;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-around;
+}
+
+.restaurant-image {
+  width: 300px;
+}
